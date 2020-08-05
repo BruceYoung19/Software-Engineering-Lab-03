@@ -1,6 +1,6 @@
 #varaible
-hello = 2;
+num = 2;
 
 # if loop
-if hello == 2:
+if num == 2:
     print("this is correct");
